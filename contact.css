@@ -1,0 +1,29 @@
+form{
+  
+  
+}
+h1{
+    margin: 420px;
+    color: beige;
+    background-color: black;
+    border-radius: 50px;
+    /* border-color: black; */
+    border: solid black 8px;
+    padding-top: 7px;
+    padding-bottom: 10px;
+}
+#join-div{
+
+    text-align: center;
+    margin: 9px 0px;
+}
+.divform{
+
+    margin: 2px 313px;
+    background-color: blue;
+    /* border: solid black 3px; */
+    border-radius: -12px;
+}
+.btnn{
+    margin: 15px;
+}
